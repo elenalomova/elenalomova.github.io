@@ -1,3 +1,5 @@
+## [My GitHub](https://github.com/elenalomova) | My website: [www.elenalomova.online](https://elenalomova.online/) | My [Substack](https://blog.elenalomova.online/) | My [LinkedIn](https://www.linkedin.com/in/elena-lomova/)
+
 ## August 12, 2026
 
 An update on my two Obsidian plugins — over the past year they've grown quite a bit and even changed their names.
