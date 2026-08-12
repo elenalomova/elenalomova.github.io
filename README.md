@@ -1,5 +1,28 @@
 ## August 12, 2026
 
+New project: a **Pulya Calculator** for Preferans, built under the "Leningrad" convention: [github.com/elenalomova/pref](https://github.com/elenalomova/pref)
+
+It's a self-contained HTML/CSS/JS widget that calculates the final settlement (the "pulya") for a game of Preferans — no build step, no external JS libraries, just the two Google Fonts it uses. You drop the whole file's contents straight into a page. Both language versions are ready to be pasted directly into a T123 block on Tilda, and you can see them live here:
+
+- 🇷🇺 Russian version: [elenalomova.online/projects/pref](https://elenalomova.online/projects/pref)
+- 🇬🇧 English version: [elenalomova.online/projects/pref/en](https://elenalomova.online/projects/pref/en)
+
+What it does:
+
+- switches between **3- and 4-player modes** with one click;
+- has two layouts — a card grid for narrow screens, and a compass-style diagram (from 640px wide) that mirrors the score sheet from the source book, with the gora in the center, pulya in the middle ring, and whists on the outer edge;
+- validates input as you type — name fields only take letters and digits (max 10 characters), numeric fields only take whole numbers from 0 to 9999;
+- runs the settlement automatically, following the three-step Leningrad convention algorithm: the pulya adjusts each player's gora relative to the group average, the adjusted gora gets converted into whists, and then whists from play and whists from the gora are combined into the final result;
+- flags a warning if the final results across all players don't sum to zero, which usually means there's a typo somewhere;
+- has an expandable per-player breakdown — average pulya, adjusted gora, gora debt, and net result against each opponent.
+
+The algorithm itself follows Nikolai Rozaliev's book *"Preferans. Bridge"*.
+
+Download and follow: [github.com/elenalomova](https://github.com/elenalomova)
+
+
+## August 12, 2026
+
 An update on my two Obsidian plugins — over the past year they've grown quite a bit and even changed their names.
 
 The plugin that groups notes by tags used to be called `maps-of-content`, now it's **Content by Tags** (`content-by-tags`): [github.com/elenalomova/Obsidian-content-by-tags](https://github.com/elenalomova/Obsidian-content-by-tags). What's new:
