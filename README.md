@@ -1,6 +1,6 @@
 ## My website: [www.elenalomova.online](https://elenalomova.online/) | [GitHub](https://github.com/elenalomova) | [Substack](https://blog.elenalomova.online/) | [LinkedIn](https://www.linkedin.com/in/elena-lomova/)
 
-## August 12, 2026
+## August 12, 2026 | Obsidian plugins
 
 An update on my two Obsidian plugins — over the past year they've grown quite a bit and even changed their names.
 
@@ -29,7 +29,7 @@ Both plugins are still installed manually: download `main.js` and `manifest.json
 Download and follow: [github.com/elenalomova](https://github.com/elenalomova)
 
 
-## August 9, 2026
+## August 9, 2026 | Pulya Calculator
 
 New project: a **Pulya Calculator** for Preferans, built under the "Leningrad" convention: [github.com/elenalomova/pref](https://github.com/elenalomova/pref)
 
@@ -52,7 +52,7 @@ The algorithm itself follows Nikolai Rozaliev's book *"Preferans. Bridge"*.
 Download and follow: [github.com/elenalomova](https://github.com/elenalomova)
 
 
-## August 22, 2025
+## August 22, 2025 | Obsidian plugins
 
 I vibe-coded two plugins for my Obsidian using Claude: one generates a note where all existing notes are grouped by tags, the other generates a note where all notes are grouped by folder structure (similar to a sitemap.xml). You take the files from [github](https://github.com/elenalomova) and put them in `Obsidian \ .obsidian \ plugins`, launch Obsidian, enable the plugins in settings, restart Obsidian, and voilà — everything generates and updates automatically ✨
 
