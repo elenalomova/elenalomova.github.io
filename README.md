@@ -1,4 +1,4 @@
-## [My GitHub](https://github.com/elenalomova) | My website: [www.elenalomova.online](https://elenalomova.online/) | My [Substack](https://blog.elenalomova.online/) | My [LinkedIn](https://www.linkedin.com/in/elena-lomova/)
+## My website: [www.elenalomova.online](https://elenalomova.online/) | [GitHub](https://github.com/elenalomova) | [Substack](https://blog.elenalomova.online/) | [LinkedIn](https://www.linkedin.com/in/elena-lomova/)
 
 ## August 12, 2026
 
